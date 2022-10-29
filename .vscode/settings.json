@@ -1,0 +1,7 @@
+{
+    "prettier.bracketSameLine": false,
+    "prettier.endOfLine": "lf",
+    "prettier.printWidth": 120,
+    "editor.fontFamily": "IBM Plex Mono ExtraLight",
+    "editor.fontSize": 14
+}
